@@ -1,0 +1,59 @@
+
+@font-face {
+  font-family: 'Buzz-Black';
+  src: url('https://cfccreates.com/wp-content/uploads/2024/07/buzzblack.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'CooperLt BT-Light';
+  src: url('https://cfccreates.com/wp-content/uploads/2024/07/Cooper-Light-BT.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'NeueMontreal-Regular';
+  src: url('https://cfccreates.com/wp-content/uploads/2024/07/NeueMontreal-Regular.woff2') format('woff2');
+}
+
+:root { 
+  --black: #000000;
+  --electric-violet: #9f24e4;
+  --morning-glory: #a7dee0;
+  --white: #ffffff;
+ 
+  --font-size-l: 56px;
+  --font-size-m: 24px;
+  --font-size-s: 19px;
+  --font-size-xl: 60px;
+  --font-size-xxl: 70px;
+ 
+  --font-family-buzz-black: "Buzz-Black", Helvetica;
+  --font-family-cooperlt_bt-light: "CooperLt BT-Light", Helvetica;
+  --font-family-neuemontreal-regular: "NeueMontreal-Regular", Helvetica;
+}
+
+.neuemontreal-regular-normal-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-neuemontreal-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.neuemontreal-regular-normal-black-19px {
+  color: var(--black);
+  font-family: var(--font-family-neuemontreal-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.cooperltbt-light-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-cooperlt_bt-light);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 300;
+}
+```
+
+This CSS should now properly reference the fonts from the provided URLs.

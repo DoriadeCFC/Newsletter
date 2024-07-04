@@ -1,0 +1,29 @@
+/* screen - impact-newsletter-template */
+
+.impact-newsletter-template {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 43px;
+  height: 5000px;
+  overflow: hidden;
+  padding: 90px 0;
+  width: 1500px;
+}
+
+.impact-newsletter-template .overlap-group2 {
+  height: 184px;
+  left: 216px;
+  position: absolute;
+  top: 1272px;
+  width: 253px;
+}
+
+.impact-newsletter-template .overlap-group1 {
+  height: 184px;
+  left: 216px;
+  position: absolute;
+  top: 1484px;
+  width: 253px;
+}
