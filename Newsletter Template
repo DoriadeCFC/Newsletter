@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <!--<meta name=description content="This site was generated with Anima. www.animaapp.com"/>-->
+    <!-- <link rel="shortcut icon" type=image/png href="https://animaproject.s3.amazonaws.com/home/favicon.png" /> -->
+    <meta name="viewport" content="width=1500, maximum-scale=1.0" />
+    <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="css/impact-newsletter-template.css" />
+    <link rel="stylesheet" type="text/css" href="css/styleguide.css" />
+    <link rel="stylesheet" type="text/css" href="css/globals.css" />
+  </head>
+  <body style="margin: 0; background: #ffffff">
+    <input type="hidden" id="anPageName" name="page" value="impact-newsletter-template" />
+    <div class="container-center-horizontal">
+      <div class="impact-newsletter-template screen">
+        <div class="overlap-group4">
+          <div class="overlap-group">
+            <div class="rectangle-4"></div>
+            <div class="rectangle-1"></div>
+            <img class="path-1 path" src="img/path-1@1x.png" alt="Path 1" />
+            <img class="path-2 path" src="img/path-2@1x.png" alt="Path 2" />
+            <div class="cfc-comedy-storyroom-intensive">CFC COMEDY STORYROOM INTENSIVE</div>
+            <div class="cfc-comedy-storyroom-intensive-1">CFC COMEDY STORYROOM INTENSIVE</div>
+            <div class="alumni-higlightzahra-benthem">ALUMNI HIGLIGHT<br />ZAHRA BENTHEM</div>
+            <img
+              class="ac-showcase-comedy-group-photo"
+              src="img/ac-showcase---comedy-group-photo-1@1x.png"
+              alt="AC Showcase - Comedy group photo"
+            />
+            <img
+              class="ac-showcase-comedy-group-photo-1"
+              src="img/ac-showcase---comedy-group-photo-1@1x.png"
+              alt="AC Showcase - Comedy group photo"
+            />
+            <p class="lorem-ipsum-dolor-si-1 lorem-ipsum-dolor-si-5">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur venenatis felis ut purus malesuada, a
+              vehicula sapien vestibulum. Vestibulum ac orci nec sapien volutpat dictum. Fusce auctor ligula et nunc
+              aliquam, quis volutpat odio malesuada. Integer eget nibh at libero pretium convallis. Nullam posuere neque
+              nec nulla malesuada, sit amet suscipit orci vehicula. Nullam lacinia, urna vel tincidunt fermentum, enim
+              augue vestibulum erat, ac auctor nunc mi eu risus. Pellentesque habitant morbi tristique senectus et netus
+              et malesuada fames ac turpis egestas.
+            </p>
+            <p class="lorem-ipsum-dolor-si-2 lorem-ipsum-dolor-si-5">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur venenatis felis ut purus malesuada, a
+              vehicula sapien vestibulum. Vestibulum ac orci nec sapien volutpat dictum. Fusce auctor ligula et nunc
+              aliquam, quis volutpat odio malesuada. Integer eget nibh at libero pretium convallis. Nullam posuere neque
+              nec nulla malesuada, sit amet suscipit orci vehicula. Nullam lacinia, urna vel tincidunt fermentum, enim
+              augue vestibulum erat, ac auctor nunc mi eu risus. Pellentesque habitant morbi tristique senectus et netus
+              et malesuada fames ac turpis egestas.
+            </p>
+            <p class="lorem-ipsum-dolor-si-3 lorem-ipsum-dolor-si-5 neuemontreal-regular-normal-black-24px">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur venenatis felis ut purus malesuada, a
+              vehicula sapien vestibulum. Vestibulum ac orci nec sapien volutpat dictum. Fusce auctor ligula et nunc
+              aliquam, quis volutpat odio malesuada. Integer eget nibh at libero pretium convallis. Nullam posuere neque
+              nec nulla malesuada, sit amet suscipit orci vehicula. Nullam lacinia, urna vel tincidunt fermentum, enim
+              augue vestibulum erat, ac auctor nunc mi eu risus. Pellentesque habitant morbi tristique senectus et netus
+              et malesuada fames ac turpis egestas.
+            </p>
+            <p class="lorem-ipsum-dolor-si-4 lorem-ipsum-dolor-si-5 neuemontreal-regular-normal-black-24px">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur venenatis felis ut purus malesuada, a
+              vehicula sapien vestibulum. Vestibulum ac orci nec sapien volutpat dictum. Fusce auctor ligula et nunc
+              aliquam, quis volutpat odio malesuada. Integer eget nibh at libero pretium convallis. Nullam posuere neque
+              nec nulla malesuada, sit amet suscipit orci vehicula. Nullam lacinia, urna vel tincidunt fermentum, enim
+              augue vestibulum erat, ac auctor nunc mi eu risus. Pellentesque habitant morbi tristique senectus et netus
+              et malesuada fames ac turpis egestas.
+            </p>
+            <h1 class="title">CFC RECOMMENDS: WHAT TO WATCH</h1>
+            <p class="looking-to-add-to-yo">
+              Looking to add to your must watchlist? Here are a few selections involving CFC alumni!
+            </p>
+            <img class="image-1 image" src="img/image-1@1x.png" alt="Image 1" />
+            <img class="line-1" src="img/line-1@1x.png" alt="Line 1" />
+            <div class="rectangle-7"></div>
+            <div class="donate neuemontreal-regular-normal-black-19px">DONATE</div>
+            <div class="rectangle-8"></div>
+            <div class="donate neuemontreal-regular-normal-black-19px">DONATE</div>
+            <img class="cfc-logo-shoot" src="img/cfc-logo-shoot@1x.png" alt="CFC LOGO SHOOT" />
+          </div>
+          <div class="overlap-group2">
+            <div class="the-porter cooperltbt-light-black-24px">THE PORTER</div>
+            <p class="lorem-ipsum-dolor-si neuemontreal-regular-normal-black-24px">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur venenatis felis ut purus malesuada, a
+              vehicula sapien vestibulum. Vestibulum ac orci nec sapien volutpat dictum. Fusce auctor ligula et nunc
+              aliquam, quis volutpat odio malesuada. Integer eget nibh at libero pretium convallis. Nullam posuere neque
+              nec nulla malesuada, sit amet suscipit orci vehicula. Nullam lacinia, urna vel tincidunt fermentum, enim
+              augue vestibulum erat, ac auctor nunc mi eu risus. Pellentesque habitant morbi tristique senectus et netus
+              et malesuada fames ac turpis egestas.
+            </p>
+          </div>
+          <div class="overlap-group1">
+            <div class="the-porter cooperltbt-light-black-24px">THE PORTER</div>
+            <p class="lorem-ipsum-dolor-si neuemontreal-regular-normal-black-24px">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur venenatis felis ut purus malesuada, a
+              vehicula sapien vestibulum. Vestibulum ac orci nec sapien volutpat dictum. Fusce auctor ligula et nunc
+              aliquam, quis volutpat odio malesuada. Integer eget nibh at libero pretium convallis. Nullam posuere neque
+              nec nulla malesuada, sit amet suscipit orci vehicula. Nullam lacinia, urna vel tincidunt fermentum, enim
+              augue vestibulum erat, ac auctor nunc mi eu risus. Pellentesque habitant morbi tristique senectus et netus
+              et malesuada fames ac turpis egestas.
+            </p>
+          </div>
+          <img class="image-2 image" src="img/image-2@1x.png" alt="Image 2" />
+          <img class="image-3 image" src="img/image-2@1x.png" alt="Image 3" />
+        </div>
+        <div class="flex-row">
+          <div class="flex-col">
+            <div class="support-thefuture-o">SUPPORT THE<br />FUTURE OF CANADIAN<br />STORYTELLING</div>
+            <div class="overlap-group3 neuemontreal-regular-normal-black-19px">
+              <div class="donate-1">DONATE</div>
+              <div class="rectangle-6"></div>
+              <div class="donate-1">DONATE</div>
+            </div>
+          </div>
+          <img
+            class="cfc-comedy-story-room-intensive-29"
+            src="img/cfc---comedy-storyroom-intensive-29@1x.png"
+            alt="CFC - Comedy StoryRoom Intensive-29"
+          />
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
